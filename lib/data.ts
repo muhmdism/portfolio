@@ -10,7 +10,7 @@ export const person = {
 export const heroStats = [
   { value: "3", label: "Projects built" },
   { value: "4", label: "Languages spoken" },
-  { value: "97.8%", label: "Secondary school score" },
+  { value: "6.37", label: "B.Tech CGPA (out of 10)" },
 ];
 
 export const workStats = [
